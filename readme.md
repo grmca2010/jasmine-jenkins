@@ -8,7 +8,7 @@ jasemine-jenkins assumes you have [node.js](http://nodejs.org/) installed.
 
 ## Usage
 
-Using your favorite shell, from the `src` folder: `node server.js -t`
+Using your favorite shell, from the `src` folder: `node index.js -t`
 
 ## Results
 
