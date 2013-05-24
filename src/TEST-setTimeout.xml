@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<testsuites>
+<testsuite name="setTimeout" errors="0" tests="2" failures="0" time="0" timestamp="2013-05-24T10:23:58">
+  <testcase classname="setTimeout" name="takes an anonymous function callback" time="0"></testcase>
+  <testcase classname="setTimeout" name="takes a variable callback" time="0"></testcase>
+</testsuite>
+</testsuites>
